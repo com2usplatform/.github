@@ -1,0 +1,3 @@
+# Organization profile repository. Every change needs approval from a code owner
+# other than its author; the branch ruleset on the default branch requires it.
+*       @comsy-gcp @sunmool-com2us
